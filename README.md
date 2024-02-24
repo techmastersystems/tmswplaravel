@@ -1,2 +1,2 @@
-# tmswplaravel
+# WPlaravel
 WordPress Laravel integration
